@@ -6,7 +6,7 @@ import java.util.Arrays;
  * Last modified: 4/7/2020
  * */
 
-public class Main {
+public class Merge {
 
     public static void main(String[] args){
         /* Data to sort*/
